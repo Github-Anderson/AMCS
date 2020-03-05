@@ -2,7 +2,7 @@
 
 [官方网站](http://andersonyang.icoc.me/)
 
-请注意，本服务器仍处在早期开发阶段。如果出现~~特性~~或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2[Optifine](https://www.optifine.net/)
+请注意，本服务器仍处在早期开发阶段。如果出现特性或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2[Optifine](https://www.optifine.net/)
 
 ## 如何加入？
 
@@ -33,6 +33,8 @@ cn-sq-yd.sakurafrp.com:23423
 
 ## 帮助页
 
-玩家QQ群: 806333259 腐竹QQ: 2455788720 
+玩家QQ群: <u>806333259</u> 腐竹QQ: <u>2455788720</u> 
 
 其他[帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
+
+*修改于2020/3/5*
