@@ -1,5 +1,7 @@
 # Anderson's Minecraft Server
 
+[官方网站](http://andersonyang.icoc.me/)
+
 请注意，本服务器仍处在早期开发阶段。如果出现~~特性~~或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2[Optifine](https://www.optifine.net/)
 
 ## 如何加入？
