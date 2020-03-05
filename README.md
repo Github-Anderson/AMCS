@@ -33,4 +33,4 @@ cn-sq-yd.sakurafrp.com:23423
 
 玩家QQ群: 806333259 腐竹QQ: 2455788720 
 
-其他[帮助]()
+其他[帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
