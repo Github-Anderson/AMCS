@@ -14,13 +14,17 @@
 
 请在群文件或[Releases page](https://github.com/Github-Anderson/AMCS/releases)下载以下两个文件:
 
-- AMCS客户端（AMCS-win.zip）
-- [HMCL](https://hamidmukhtar.com/)启动器（自带）
+- #### AMCS客户端（AMCS.zip）
 
-对于 Mac 用户，请下载 AMCS-mac.zip 文件，而不是 AMCS-win.zip 。
+请先解压到当前文件夹
+
+- #### [HMCL](https://hamidmukhtar.com/)启动器（自带）
+
+已自带 .jar 和 .exe 格式启动器
+
+*2020/3/6更新：AMCS.zip自带双版本启动器，macOS用户也可以使用。*
 
 点击“启动游戏”进行游戏。如果有技术性问题，请转到 页尾帮助页。 
-
 ## 加入服务器
 
 请在联系腐竹开服后联入IP:
