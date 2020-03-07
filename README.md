@@ -39,14 +39,14 @@ cn-sq-yd.sakurafrp.com:23423
 cn-cd-dx.sakurafrp.com:23424
 ```
 
-请确认已加入白名单。该服务器没有正版验证。
+请确认已加入白名单，该服务器没有正版验证。
 
 ## 帮助页
 
 玩家QQ群: <u>806333259</u> 腐竹QQ: <u>2455788720</u> 
 
-其他帮助：
+其他帮助： [帮助]([https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md](https://github.com/Github-Anderson/AMCS/blob/master/帮助.md))
 
-[本地游戏](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)  [自行下载]()
+[本地游戏](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)  [自行下载]([https://github.com/Github-Anderson/AMCS/blob/master/%E8%87%AA%E8%A1%8C%E4%B8%8B%E8%BD%BD%E6%B8%B8%E6%88%8F.md](https://github.com/Github-Anderson/AMCS/blob/master/自行下载游戏.md))
 
 *修改于2020/3/6*
