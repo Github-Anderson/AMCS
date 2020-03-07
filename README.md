@@ -33,12 +33,20 @@
 cn-sq-yd.sakurafrp.com:23423
 ```
 
+如果此IP延迟较大，影响正常游戏，请联系腐竹换成以下IP:
+
+```服务器IP2
+cn-cd-dx.sakurafrp.com:23424
+```
+
 请确认已加入白名单。该服务器没有正版验证。
 
 ## 帮助页
 
 玩家QQ群: <u>806333259</u> 腐竹QQ: <u>2455788720</u> 
 
-其他[帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
+其他帮助：
 
-*修改于2020/3/5*
+[本地游戏](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)  [自行下载]()
+
+*修改于2020/3/6*
