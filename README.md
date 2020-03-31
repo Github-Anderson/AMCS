@@ -43,6 +43,6 @@ server.natappfree.cc:端口
 
 其他帮助： [帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
 
-[本地游戏](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)  [自行下载]()
+[本地游戏](https://github.com/Github-Anderson/AMCS/blob/master/%E5%90%AF%E5%8A%A8%E6%9C%AC%E5%9C%B0%E6%B8%B8%E6%88%8F.md)  [自行下载]()
 
 *修改于2020/3/31*
