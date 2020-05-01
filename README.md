@@ -20,9 +20,9 @@
 
 - #### [HMCL](https://hamidmukhtar.com/)启动器（自带）
 
-已自带 .jar 和 .exe 格式启动器
+已自带 .jar 格式启动器
 
-*2020/3/6更新：AMCS.zip自带双版本启动器，兼容Win7/10，macOS，Linux。*
+*2020/3/31更新：AMCS.zip自带 .jar 启动器，兼容Win7/10，macOS，Linux。*
 
 点击“启动游戏”进行游戏。如果有技术性问题，请转到 页尾帮助页。 
 ## 加入服务器
@@ -43,4 +43,5 @@ server.natappfree.cc:端口
 
 [帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
 
-*修改于2020/3/31*
+*修改于2020/5/1*
+
