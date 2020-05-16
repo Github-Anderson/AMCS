@@ -1,12 +1,12 @@
 # Anderson's Minecraft Server
 
-[官方网站](http://andersonyang.icoc.me/)
+[官方网站](http://andersonyang.icoc.me/)  [存档备份](http://https://github.com/Github-Anderson/AMCS_Backup/)
 
 请注意，本服务器仍处在早期开发阶段。如果出现特性或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2
 
 ```公告
 2020/5/16更新:
-- Minecraft 1.16 即将更新，本服务器也将以最快速度更新服务端。纯净生存会在6月左右完结，存档将发布至Github和百度云。
+- Minecraft 1.16 即将更新，本服务器也将以最快速度更新服务端。纯净生存会在6月左右完结，存档已发布至Github和百度云。
 ```
 
 ## 如何加入？
