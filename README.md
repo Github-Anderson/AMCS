@@ -2,11 +2,11 @@
 
 [官方网站](http://andersonyang.icoc.me/)
 
-请注意，本服务器仍处在早期开发阶段。如果出现特性或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2 [Optifine](https://www.optifine.net/)
+请注意，本服务器仍处在早期开发阶段。如果出现特性或兼容性问题，请联系我。禁止一切未经许可的修改、发布以及逆向工程。Minecraft版本:1.15.2
 
 ```公告
 2020/5/16更新:
-- Minecraft 1.16 即将更新，本服务器也将以最快速度更新服务端。纯净生存即将完结，存档将发布至Github和百度云。
+- Minecraft 1.16 即将更新，本服务器也将以最快速度更新服务端。纯净生存会在6月左右完结，存档将发布至Github和百度云。
 ```
 
 ## 如何加入？
@@ -17,7 +17,7 @@
 
 ## 安装&运行
 
-请在群文件或[Releases page](https://github.com/Github-Anderson/AMCS/releases)下载以下两个文件:
+请在[百度云](https://pan.baidu.com/s/1CGCvpbwTPIuWg4GuEv54LA)或[Releases page](https://github.com/Github-Anderson/AMCS/releases)下载以下两个文件:
 
 - #### AMCS客户端（AMCS.zip）
 
@@ -48,5 +48,4 @@ server.natappfree.cc:端口
 
 [帮助](https://github.com/Github-Anderson/AMCS/blob/master/%E5%B8%AE%E5%8A%A9.md)
 
-*修改于2020/5/1*
-
+*修改于2020/5/16*
